@@ -1,0 +1,32 @@
+main{
+	font-family:'crimson text', serif;
+	background-color:#000000;
+	padding: .5rem;
+	margin: .5rem;
+	margin: 3rem;
+	margin:1.5rem;
+}
+
+h1 {
+	font-family: 'Muli', sans-serif;
+	font-size: 10rem;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 1.5;
+	font-weight: 900;
+	color:white;
+} 
+h2{
+	text-align:center;
+	color:white;
+	font-size:5rem;
+}
+
+footer{
+	color:white;
+	text-align:center;
+}
+body{
+	background: url(../img/ocean.jpg) no-repeat 50% 50%;
+	background-size: cover;
+}
